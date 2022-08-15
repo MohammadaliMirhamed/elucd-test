@@ -41,7 +41,7 @@ after that open the ```/telescope``` route to monitor your application.
 - Docker
 
 ## I just Say 
-I wanted to implantation this project with GraphQl but i have got COVID-19 and the time was limit i just try to keep it under KISS Princple.
+I wanted to implantation this project with graphql but i have got COVID-19 and the time was limit i just try to keep it under KISS Princple.
 
 the below links are about my python package. 
 https://www.mirhamedrooy.ir/rouigram/
